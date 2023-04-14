@@ -644,7 +644,7 @@ void main(){
                             margin: EdgeInsets.only(left: 15),
                             alignment: Alignment.topLeft,
                             child: Text(
-                              'type of report',
+                              'type of reports',
                               style: TextStyle(
                                 fontSize: 15,
                                 color: Color.fromARGB(255, 199, 33, 88),
